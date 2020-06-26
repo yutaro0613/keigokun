@@ -1,4 +1,3 @@
-# keigokun
 #API品詞取得
 from janome.tokenizer import Tokenizer
 import pickle
